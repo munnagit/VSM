@@ -5,8 +5,8 @@ $message = urlencode("otp number.".$rndno);
 $to=$_POST['email'];
 $subject = "OTP";
 $txt = "OTP: ".$rndno."";
-$headers = "From: otp@studentstutorial.com" . "\r\n" .
-"CC: divyasundarsahu@gmail.com";
+$headers = "From: otp@vsm.cf" . "\r\n" .
+"CC: munna.yesyou@yahoo.com";
 mail($to,$subject,$txt,$headers);
 if(isset($_POST['btn-save']))
 {
