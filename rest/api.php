@@ -1,7 +1,7 @@
 <?php
 header("Content-Type:application/json");
 if (isset($_GET['order_id']) && $_GET['order_id']!="") {
-	include('db.php');
+	include('../db.php');
 	$order_id = $_GET['order_id'];
 	$result = mysqli_query(
 	$con,
