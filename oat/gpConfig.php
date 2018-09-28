@@ -12,7 +12,7 @@ require_once 'google-api-php-client/contrib/Google_Oauth2Service.php';
  */
 $clientId = '875688751535-oleiqa9e1f7joc74h3el1a5et4e9m0kt.apps.googleusercontent.com';
 $clientSecret = 'zAibb9Cqhjz4iauzZIpQIbzP';
-$redirectURL = 'https://veh.nettech.cf/oat/gpConfig.php'; //Callback URL
+$redirectURL = 'https://veh.nettech.cf/oat/'; //Callback URL
 
 // Call Google API
 $gClient = new Google_Client();
