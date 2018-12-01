@@ -8,7 +8,7 @@
  */
 
 class User {
-    private $dbHost     = "veh.nettech.cf";
+    private $dbHost     = "veh.nettech.ga";
     private $dbUsername = "nettech_sasi";
     private $dbPassword = "XMQ5ROD_MNYq";
     private $dbName     = "nettech_vehicle";
