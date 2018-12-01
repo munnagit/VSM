@@ -11,7 +11,7 @@ require_once 'google-api-php-client/contrib/Google_Oauth2Service.php';
  * Configuration and setup Google API
  */
 $clientId = '875688751535-oleiqa9e1f7joc74h3el1a5et4e9m0kt.apps.googleusercontent.com';
-$clientSecret = 'zAibb9Cqhjz4iauzZIpQIbzP';
+$clientSecret = 'etHN5A0mMJJPt3WQ0llUvMSD';
 $redirectURL = 'https://veh.nettech.ga/oat/'; //Callback URL
 
 // Call Google API
