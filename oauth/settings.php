@@ -7,6 +7,6 @@ define('CLIENT_ID', '875688751535-oleiqa9e1f7joc74h3el1a5et4e9m0kt.apps.googleus
 define('CLIENT_SECRET', 'zAibb9Cqhjz4iauzZIpQIbzP');
 
 /* Google App Redirect Url */
-define('CLIENT_REDIRECT_URL', 'https://veh.nettech.cf/oauth/gauth.php');
+define('CLIENT_REDIRECT_URL', 'https://veh.nettech.ga/oauth/gauth.php');
 
 ?>
